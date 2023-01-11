@@ -1,0 +1,1 @@
+C:\Users\Vipul\Desktop\rustproject\movie-app1\movie-lib\target\debug\libmovies_lib.rlib: C:\Users\Vipul\Desktop\rustproject\movie-app1\movie-lib\src\lib.rs C:\Users\Vipul\Desktop\rustproject\movie-app1\movie-lib\src\movies.rs
